@@ -1,0 +1,11 @@
+{
+  "name": "underdot-md",
+  "version": "1.0.0",
+  "description": "Markdown for Underdot",
+  "main": "index.js",
+  "author": "Cameron Spencer <cameron@lab43.com> (https://www.lab43.com)",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^4.0.18"
+  }
+}
